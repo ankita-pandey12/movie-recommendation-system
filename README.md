@@ -14,9 +14,6 @@ This project is a content-based movie recommendation system that suggests simila
 3. Cosine similarity is computed between movies.
 4. Top 5 most similar movies are recommended.
 
-## ❓ Why No Accuracy?
-This is not a supervised learning problem. Hence accuracy metrics are not applicable.
-
 ## 🚀 Example
 Input: Avatar  
 Output: John Carter, Guardians of the Galaxy, Star Trek
